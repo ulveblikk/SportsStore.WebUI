@@ -7,6 +7,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 using SportsStore.WebUI.Infrastructure;
+using System.Web.UI;
 
 namespace SportsStore.WebUI
 {
@@ -28,6 +29,12 @@ namespace SportsStore.WebUI
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
+            );
+            
+            routes.MapRoute(
+                null,
+                "Page{page}",
+                new { controller = "Product", action = "List", id = UrlParameter.Optional }
             );
 
             routes.MapRoute(
