@@ -12,7 +12,7 @@ using SportsStore.WebUI.Controllers;
 namespace SportsStoreUnitTests
 {
     [TestFixture]
-    public class Can_PaginateTest
+    public class CanPaginateTest
     {
         [Test]
         public void Can_Paginate()
