@@ -1,0 +1,6 @@
+C:\dev\git\mm\SportsStore.WebUI\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\dev\git\mm\SportsStore.WebUI\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\dev\git\mm\SportsStore.WebUI\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\git\mm\SportsStore.WebUI\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\dev\git\mm\SportsStore.WebUI\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\dev\git\mm\SportsStore.WebUI\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config

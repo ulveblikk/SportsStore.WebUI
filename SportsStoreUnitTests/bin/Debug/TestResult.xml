@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\dev\git\mm\SportsStore.WebUI\SportsStoreUnitTests\bin\Debug\SportsStoreUnitTests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-05-27" time="07:30:12">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.4223" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.10\bin\net-2.0" machine-name="MARIUS-PC" user="Marius" user-domain="Marius-PC" />
+  <culture-info current-culture="nb-NO" current-uiculture="nb-NO" />
+  <test-suite type="Assembly" name="C:\dev\git\mm\SportsStore.WebUI\SportsStoreUnitTests\bin\Debug\SportsStoreUnitTests.dll" executed="True" result="Success" success="True" time="1.018" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SportsStoreUnitTests" executed="True" result="Success" success="True" time="1.005" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Can_PaginateTest" executed="True" result="Success" success="True" time="1.003" asserts="0">
+            <results>
+              <test-case name="SportsStoreUnitTests.Can_PaginateTest.Can_Paginate" executed="True" result="Success" success="True" time="0.991" asserts="2" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
